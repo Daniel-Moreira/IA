@@ -1,0 +1,79 @@
+Entradas\A-n32-k5.vrp
+Rota  #1: 1 31 17 2 13 1 custo: 73 demanda: 72
+Rota  #2: 1 7 4 3 24 5 12 29 15 1 custo: 230 demanda: 98
+Rota  #3: 1 22 32 20 18 14 8 27 1 custo: 155 demanda: 98
+Rota  #4: 1 21 6 26 11 16 23 10 9 19 30 1 custo: 267 demanda: 98
+Rota  #5: 1 25 28 1 custo: 59 demanda: 44
+Custo Total: 784
+Tempo 3800.0
+
+Entradas\A-n33-k5.vrp
+Rota  #1: 1 12 32 2 22 15 20 7 25 1 custo: 119 demanda: 98
+Rota  #2: 1 19 29 24 23 1 custo: 47 demanda: 61
+Rota  #3: 1 13 6 27 8 9 14 33 3 1 custo: 172 demanda: 97
+Rota  #4: 1 21 5 28 26 31 11 1 custo: 138 demanda: 98
+Rota  #5: 1 16 18 10 4 17 30 1 custo: 185 demanda: 92
+Custo Total: 661
+Tempo 3688.0
+
+Entradas\A-n33-k6.vrp
+Rota  #1: 1 11 18 12 30 20 8 1 custo: 164 demanda: 98
+Rota  #2: 1 6 3 21 16 10 4 9 5 1 custo: 172 demanda: 99
+Rota  #3: 1 22 13 1 custo: 71 demanda: 91
+Rota  #4: 1 15 2 7 19 14 1 custo: 69 demanda: 89
+Rota  #5: 1 32 24 25 27 23 1 custo: 166 demanda: 67
+Rota  #6: 1 33 26 17 31 28 29 1 custo: 100 demanda: 97
+Custo Total: 742
+Tempo 3610.0
+
+Entradas\B-n31-k5.vrp
+Rota  #1: 1 22 17 19 26 6 1 custo: 92 demanda: 56
+Rota  #2: 1 23 7 10 18 14 8 1 custo: 110 demanda: 96
+Rota  #3: 1 5 30 31 24 1 custo: 103 demanda: 69
+Rota  #4: 1 9 13 29 27 3 11 28 21 1 custo: 219 demanda: 96
+Rota  #5: 1 4 2 20 25 12 16 15 1 custo: 154 demanda: 95
+Custo Total: 678
+Tempo 3255.0
+
+Entradas\B-n34-k5.vrp
+Rota  #1: 1 2 20 19 25 30 28 4 27 13 1 custo: 169 demanda: 95
+Rota  #2: 1 15 10 17 1 custo: 139 demanda: 77
+Rota  #3: 1 12 31 23 34 9 1 custo: 213 demanda: 99
+Rota  #4: 1 16 14 29 32 18 26 7 6 1 custo: 111 demanda: 86
+Rota  #5: 1 5 21 24 11 33 22 8 3 1 custo: 157 demanda: 100
+Custo Total: 789
+Tempo 4355.0
+
+Entradas\B-n35-k5.vrp
+Rota  #1: 1 14 33 3 20 12 6 31 23 1 custo: 226 demanda: 100
+Rota  #2: 1 30 18 19 27 4 34 7 1 custo: 231 demanda: 94
+Rota  #3: 1 13 11 17 24 2 10 8 21 1 custo: 123 demanda: 90
+Rota  #4: 1 22 26 32 9 1 custo: 131 demanda: 56
+Rota  #5: 1 16 15 5 29 25 28 35 1 custo: 248 demanda: 97
+Custo Total: 959
+Tempo 4486.0
+
+Entradas\P-n16-k8.vrp
+Rota  #1: 1 2 4 1 custo: 66 demanda: 35
+Rota  #2: 1 3 1 custo: 42 demanda: 30
+Rota  #3: 1 5 12 1 custo: 57 demanda: 30
+Rota  #4: 1 7 1 custo: 24 demanda: 31
+Rota  #5: 1 6 15 1 custo: 62 demanda: 30
+Rota  #6: 1 9 1 custo: 64 demanda: 28
+Rota  #7: 1 16 13 11 1 custo: 67 demanda: 33
+Rota  #8: 1 8 10 14 1 custo: 68 demanda: 29
+Custo Total: 450
+Tempo 1209.0
+
+Entradas\P-n19-k2.vrp
+Rota  #1: 1 6 9 17 18 4 13 15 12 5 11 2 1 custo: 138 demanda: 160
+Rota  #2: 1 19 14 16 10 8 3 7 1 custo: 80 demanda: 150
+Custo Total: 218
+Tempo 869.0
+
+Entradas\P-n20-k2.vrp
+Rota  #1: 1 20 6 15 17 10 8 3 7 1 custo: 89 demanda: 155
+Rota  #2: 1 5 12 16 13 4 19 18 9 14 11 2 1 custo: 128 demanda: 155
+Custo Total: 217
+Tempo 1037.0
+
