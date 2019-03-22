@@ -1,0 +1,19 @@
+(define (problem teste1)
+  (:domain puzzle8)
+  (:objects
+  t1 t2 t3 t4 t5 t6 t7 t8 - title
+  x1 x2 x3 - coX
+  y1 y2 y3 - coY)
+  (:init
+   (adjX x1 x2) (adjX x2 x3)
+   (adjY y1 y2) (adjY y2 y3)
+   (blank x3 y2) (at t1 x1 y1) (at t2 x2 y3) (at t3 x1 y3)
+   (at t4 x3 y1) (at t5 x3 y3) (at t6 x2 y1) (at t7 x2 y2)
+   (at t8 x1 y2)
+  )
+  (:goal
+   (and (at t1 x2 y1) (at t2 x3 y1) (at t3 x1 y2)
+   (at t4 x2 y2) (at t5 x3 y2) (at t6 x1 y3) (at t7 x2 y3)
+   (at t8 x3 y3))
+  )
+)

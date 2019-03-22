@@ -1,0 +1,20 @@
+(define (domain puzzle8)
+  (:requirements :strips)
+  (:types title coX coY)
+  (:predicates
+   (at ?t - title ?x - coX ?y - coY) (blank ?x - coX ?y - coY)
+   (adjX ?x ?y - coX) (adjY ?x ?y - coY)
+  )
+  (:action move-vertical
+    :parameters (?t - title ?x - coX ?y ?py - coY)
+    :precondition (and (adjY ?py ?y) (blank ?x ?py) (at ?t ?x ?y))
+    :effect (and (not (blank ?x ?py)) (not (at ?t ?x ?y))
+		 (blank ?x ?y) (at ?t ?x ?py))
+  )
+  (:action move-horizontal
+    :parameters (?t - title ?x ?px - coX ?y - coY)
+    :precondition (and (adjX ?px ?x) (blank ?px ?y) (at ?t ?x ?y))
+    :effect (and (not (blank ?px ?y)) (not (at ?t ?x ?y))
+		 (blank ?x ?y) (at ?t ?px ?y))
+  )
+)
